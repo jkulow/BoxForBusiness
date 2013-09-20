@@ -1,9 +1,11 @@
 This script installs the various Box for Business applications on a Windows machine.
 
-**NOTE**
+**DISCLAIMER:**
+
 You will need to have a Box for Business account to download the necessary binaries and executables for this script to work.
 The binaries will need to be placed in an installers subdirectory in the same directory as the script and named according to the names in the script.
-********
+
+**INFO**
 
 During the install process it will install the .Net 4.0 and Visual Studio Tools prerequisites.
 
